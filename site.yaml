@@ -1,0 +1,4 @@
+---
+- name: Configure JavaScript
+  hosts: localhost
+  connection: local
